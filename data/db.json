@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Blog 1",
+      "author": "Blog 1 description",
+      "body": "Blog 1 content"
+    },
+    {
+      "id": "69d4",
+      "title": "",
+      "author": "",
+      "body": ""
+    },
+    {
+      "id": "06da",
+      "title": "",
+      "author": "",
+      "body": ""
+    }
+  ]
+}
